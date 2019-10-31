@@ -14,8 +14,8 @@ with open(path.join(here, 'readme.md'), encoding='utf-8') as readme:
     long_description = readme.read()
 
 setup(
-    name='Mu-to-temperature',
-    version='0.1.2',
+    name='ellingham-diagram',
+    version='1.0',
     description='Ellingham Graphics',
     long_description=long_description,
     long_description_content_type='text/markdown',
